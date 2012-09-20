@@ -1,0 +1,39 @@
+[submodule "vim-colors-solarized"]
+	path = vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "vim-coffee-script"]
+	path = vim-coffee-script
+	url = https://github.com/kchmck/vim-coffee-script
+[submodule "vim-fugitive"]
+	path = vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "vimux"]
+	path = vimux
+	url = https://github.com/benmills/vimux
+[submodule "nerdcommenter"]
+	path = nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
+[submodule "hammer.vim"]
+	path = hammer.vim
+	url = https://github.com/matthias-guenther/hammer.vim
+[submodule "vim-unimpaired"]
+	path = vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired
+[submodule "vim-ragtag"]
+	path = vim-ragtag
+	url = https://github.com/tpope/vim-ragtag
+[submodule "vim-rails"]
+	path = vim-rails
+	url = https://github.com/tpope/vim-rails
+[submodule "vim-powerline"]
+	path = vim-powerline
+	url = git@github.com:tomjakubowski/vim-powerline.git
+[submodule "vim-surround"]
+	path = vim-surround
+	url = git://github.com/tpope/vim-surround.git
+[submodule "vim-liquid"]
+	path = vim-liquid
+	url = git@github.com:tomjakubowski/vim-liquid.git
+[submodule "mustache.vim"]
+	path = mustache.vim
+	url = https://github.com/juvenn/mustache.vim
