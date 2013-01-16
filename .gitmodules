@@ -10,9 +10,6 @@
 [submodule "vimux"]
 	path = vimux
 	url = https://github.com/benmills/vimux
-[submodule "nerdcommenter"]
-	path = nerdcommenter
-	url = https://github.com/scrooloose/nerdcommenter
 [submodule "hammer.vim"]
 	path = hammer.vim
 	url = https://github.com/matthias-guenther/hammer.vim
@@ -37,3 +34,48 @@
 [submodule "mustache.vim"]
 	path = mustache.vim
 	url = https://github.com/juvenn/mustache.vim
+[submodule "vim-javascript"]
+	path = vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "gist-vim"]
+	path = gist-vim
+	url = https://github.com/mattn/gist-vim
+[submodule "vim-css3-syntax"]
+	path = vim-css3-syntax
+	url = https://github.com/hail2u/vim-css3-syntax.git
+[submodule "vim-orgmode"]
+	path = vim-orgmode
+	url = https://github.com/jceb/vim-orgmode
+[submodule "vim-speeddating"]
+	path = vim-speeddating
+	url = https://github.com/tpope/vim-speeddating
+[submodule "vim-stylus"]
+	path = vim-stylus
+	url = https://github.com/wavded/vim-stylus
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim
+[submodule "VimClojure"]
+	path = VimClojure
+	url = https://github.com/vim-scripts/VimClojure
+[submodule "typescript-vim"]
+	path = typescript-vim
+	url = https://github.com/leafgarland/typescript-vim
+[submodule "tcomment_vim"]
+	path = tcomment_vim
+	url = https://github.com/tomtom/tcomment_vim
+[submodule "base16-vim"]
+	path = base16-vim
+	url = https://github.com/chriskempson/base16-vim
+[submodule "vim-tomorrow-theme"]
+	path = vim-tomorrow-theme
+	url = https://github.com/tomjakubowski/vim-tomorrow-theme
+[submodule "tabular"]
+	path = tabular
+	url = https://github.com/godlygeek/tabular
+[submodule "vim-markdown"]
+	path = vim-markdown
+	url = https://github.com/tpope/vim-markdown/
+[submodule "syntastic"]
+	path = syntastic
+	url = https://github.com/scrooloose/syntastic
