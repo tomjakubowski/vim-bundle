@@ -79,3 +79,6 @@
 [submodule "syntastic"]
 	path = syntastic
 	url = https://github.com/scrooloose/syntastic
+[submodule "ghcmod-vim"]
+	path = ghcmod-vim
+	url = https://github.com/eagletmt/ghcmod-vim
