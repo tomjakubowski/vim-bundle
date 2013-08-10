@@ -82,3 +82,6 @@
 [submodule "ghcmod-vim"]
 	path = ghcmod-vim
 	url = https://github.com/eagletmt/ghcmod-vim
+[submodule "vim-pathogen"]
+	path = vim-pathogen
+	url = https://github.com/tpope/vim-pathogen/
