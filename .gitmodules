@@ -52,9 +52,6 @@
 [submodule "vim-stylus"]
 	path = vim-stylus
 	url = https://github.com/wavded/vim-stylus
-[submodule "ctrlp.vim"]
-	path = ctrlp.vim
-	url = https://github.com/kien/ctrlp.vim
 [submodule "VimClojure"]
 	path = VimClojure
 	url = https://github.com/vim-scripts/VimClojure
@@ -109,3 +106,6 @@
 [submodule "vim-json"]
 	path = vim-json
 	url = https://github.com/elzr/vim-json
+[submodule "unite.vim"]
+	path = unite.vim
+	url = https://github.com/Shougo/unite.vim
